@@ -334,15 +334,15 @@ Aplicação desenvolvida para gerenciamento e organização de informações.
 </a>
 
 <a href="https://www.linkedin.com/in/yan-scholze-6830521a0?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-<img src="https://img.shields.io/badge/LinkedIn-SEU_LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=00e5ff"/>
+<img src="https://img.shields.io/badge/LinkedIn-Yan_Scholze-020617?style=for-the-badge&logo=linkedin&logoColor=00e5ff"/>
 </a>
 
 <a href="https://www.instagram.com/yan.scholze?igsi=Ymh4eDQ3bzRmcmtz">
-<img src="https://img.shields.io/badge/Instagram-@SEU_INSTAGRAM-020617?style=for-the-badge&logo=instagram&logoColor=bd93f9"/>
+<img src="https://img.shields.io/badge/Instagram-@yan_scholze-020617?style=for-the-badge&logo=instagram&logoColor=bd93f9"/>
 </a>
 
 <a href="mailto:yanaugustoscholze@gmail.com">
-<img src="https://img.shields.io/badge/Email-SEU_EMAIL-020617?style=for-the-badge&logo=gmail&logoColor=00e5ff"/>
+<img src="https://img.shields.io/badge/Email-yanaugustoscholze@gmail.com-020617?style=for-the-badge&logo=gmail&logoColor=00e5ff"/>
 </a>
 
 </div>
