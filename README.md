@@ -21,6 +21,7 @@
 
 <table>
 <tr>
+
 <td width="58%" valign="top">
 
 ### 👋 Olá, eu sou o Yan.
@@ -66,6 +67,7 @@ Atualmente estou expandindo meus conhecimentos em desenvolvimento, Linux, automa
 ```
 
 </td>
+
 </tr>
 </table>
 
@@ -114,12 +116,12 @@ HTML
 CSS
 ```
 
-- Web Development
-- Software Development
-- Automation & Scripting
-- Application Logic
-- Problem Solving
-- Programming Fundamentals
+* Web Development
+* Software Development
+* Automation & Scripting
+* Application Logic
+* Problem Solving
+* Programming Fundamentals
 
 </td>
 
@@ -136,12 +138,12 @@ Hardware
 Databases
 ```
 
-- Software Configuration
-- Technical Troubleshooting
-- Process Automation
-- System Investigation
-- Infrastructure
-- User Support
+* Software Configuration
+* Technical Troubleshooting
+* Process Automation
+* System Investigation
+* Infrastructure
+* User Support
 
 </td>
 
@@ -217,43 +219,7 @@ Aplicação desenvolvida para gerenciamento e organização de informações.
 
 ---
 
-# `06 // CURRENT MISSION`
-
-<div align="center">
-
-```text
-┌──[ YAN@SYSTEM ]──[ ~/current-mission ]
-│
-├── $ ./mission.sh
-│
-│   [✓] Improve programming fundamentals
-│   [✓] Build real-world applications
-│   [✓] Learn new technologies
-│   [✓] Improve Linux workflow
-│   [✓] Explore automation
-│   [✓] Work with Git & GitHub
-│
-│   [>] Develop larger projects
-│   [>] Improve software architecture
-│   [>] Expand backend knowledge
-│   [>] Explore DevOps
-│   [>] Build smarter automations
-│
-├── $ ./next_objective.sh
-│
-│   BUILD.
-│   AUTOMATE.
-│   SOLVE.
-│   EVOLVE.
-│
-└── SYSTEM READY_
-```
-
-</div>
-
----
-
-# `07 // GITHUB ANALYTICS`
+# `06 // GITHUB ANALYTICS`
 
 <div align="center">
 
@@ -269,63 +235,7 @@ Aplicação desenvolvida para gerenciamento e organização de informações.
 
 ---
 
-# `08 // ACTIVITY MATRIX`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yanscholze&bg_color=020617&color=00e5ff&line=00e5ff&point=bd93f9&area=true&hide_border=true&custom_title=YAN%20SCHOLZE%20%2F%2F%20ACTIVITY%20MATRIX" width="100%"/>
-
-</div>
-
----
-
-# `09 // GITHUB TROPHIES`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yanscholze&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
-
-</div>
-
----
-
-# `10 // CONTRIBUTION PROTOCOL`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/yanscholze/yanscholze/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%"/>
-
-</div>
-
----
-
-# `11 // DEVELOPMENT PHILOSOPHY`
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                 // DEVELOPMENT PROTOCOL                      ║
-║                                                              ║
-║   01  UNDERSTAND THE PROBLEM                                 ║
-║   02  DESIGN THE SOLUTION                                    ║
-║   03  WRITE THE CODE                                         ║
-║   04  TEST EVERYTHING                                        ║
-║   05  FIX WHAT BREAKS                                        ║
-║   06  IMPROVE WHAT WORKS                                     ║
-║                                                              ║
-║                "CODE IS A TOOL.                              ║
-║                 SOLVING PROBLEMS IS THE GOAL."               ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-# `12 // CONNECT`
+# `07 // CONNECT`
 
 <div align="center">
 
@@ -333,11 +243,11 @@ Aplicação desenvolvida para gerenciamento e organização de informações.
 <img src="https://img.shields.io/badge/GitHub-yanscholze-020617?style=for-the-badge&logo=github&logoColor=00e5ff"/>
 </a>
 
-<a href="https://www.linkedin.com/in/yan-scholze-6830521a0?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<a href="https://www.linkedin.com/in/yan-scholze-6830521a0">
 <img src="https://img.shields.io/badge/LinkedIn-Yan_Scholze-020617?style=for-the-badge&logo=linkedin&logoColor=00e5ff"/>
 </a>
 
-<a href="https://www.instagram.com/yan.scholze?igsi=Ymh4eDQ3bzRmcmtz">
+<a href="https://www.instagram.com/yan.scholze">
 <img src="https://img.shields.io/badge/Instagram-@yan_scholze-020617?style=for-the-badge&logo=instagram&logoColor=bd93f9"/>
 </a>
 
@@ -351,19 +261,7 @@ Aplicação desenvolvida para gerenciamento e organização de informações.
 
 <div align="center">
 
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│                  CONNECT • CREATE • COLLABORATE              │
-│                                                              │
-│                    SYSTEM STATUS: ONLINE                     │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00e5ff,45:07111f,75:020617,100:020617"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00e5ff,45:07111f,75:020617,100:020617" width="100%"/>
 
 <sub>YAN SCHOLZE // DIGITAL LAB • 2026</sub>
 
