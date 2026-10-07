@@ -4,8 +4,6 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=850&color=00E5FF&center=true&vCenter=true&width=900&lines=%3E+BOOTING+YAN.OS...;%3E+SYSTEM+ONLINE+%E2%9C%93;%3E+SUPPORT+%7C+DEVELOPMENT+%7C+AUTOMATION;%3E+JAVASCRIPT+%2F%2F+TYPESCRIPT+%2F%2F+C%2B%2B+%2F%2F+PYTHON;%3E+BUILDING+THE+FUTURE%2C+ONE+PROJECT+AT+A+TIME." alt="Typing Animation"/>
-
 <br><br>
 
 <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00e5ff?style=for-the-badge&labelColor=020617&logo=github&logoColor=00e5ff"/>
