@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:07111f,75:0a192f,100:00e5ff&text=YAN%20AUGUSTO%20SCHOLZE&fontColor=00e5ff&fontSize=50&fontAlignY=36&animation=fadeIn&desc=SUPORT%20ASSISTANT%20%20%2F%2F%20%20DEVELOPER%20%20%2F%2F%20%20STUDENT&descAlignY=60&descSize=17&descColor=8be9fd" width="100%"/>
 
-<br>
-
-<br><br>
-
 <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00e5ff?style=for-the-badge&labelColor=020617&logo=github&logoColor=00e5ff"/>
 <img src="https://img.shields.io/badge/ROLE-SUPPORT%20%2B%20DEV-8be9fd?style=for-the-badge&labelColor=020617"/>
 <img src="https://img.shields.io/badge/STATUS-BUILDING-bd93f9?style=for-the-badge&labelColor=020617"/>
