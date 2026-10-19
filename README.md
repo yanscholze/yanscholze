@@ -66,7 +66,7 @@ Atualmente estou expandindo meus conhecimentos em desenvolvimento, Linux, automa
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="80%" valign="top">
 
 ### 💻 DEVELOPMENT
 
@@ -89,7 +89,7 @@ CSS
 
 </td>
 
-<td width="50%" valign="top">
+<td width="80%" valign="top">
 
 ### 🛠️ SUPPORT & SYSTEMS
 
