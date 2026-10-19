@@ -16,9 +16,9 @@
 <table>
 <tr>
 
-<td width="58%" valign="top">
+<td width="100%" valign="top">
 
-### 👋 Olá, eu sou o Yan.
+###  Olá, eu sou o Yan.
 
 Sou **Assistente de Suporte** e estudante de tecnologia, com foco em desenvolvimento de software, resolução de problemas, automação e evolução contínua.
 
@@ -29,36 +29,6 @@ Minha abordagem:
 > **Entender → Construir → Testar → Melhorar.**
 
 Atualmente estou expandindo meus conhecimentos em desenvolvimento, Linux, automação e engenharia de software, transformando ideias em projetos reais.
-
-</td>
-
-<td width="42%" valign="top">
-
-```text
-╭──────────────────────────────────────╮
-│       YAN SCHOLZE // PROFILE         │
-├──────────────────────────────────────┤
-│                                      │
-│  ◉ ROLE                              │
-│    Support Assistant + Developer     │
-│                                      │
-│  ◉ FOCUS                             │
-│    Software • Automation             │
-│                                      │
-│  ◉ LANGUAGES                         │
-│    JS • TS • C • C++ • Python        │
-│                                      │
-│  ◉ ENVIRONMENT                       │
-│    Linux • Git • VS Code             │
-│                                      │
-│  ◉ MINDSET                           │
-│    Learn / Build / Improve           │
-│                                      │
-│  ◉ STATUS                            │
-│    ████████████████████░░  ONLINE    │
-│                                      │
-╰──────────────────────────────────────╯
-```
 
 </td>
 
@@ -202,9 +172,9 @@ Projeto voltado para organização e gerenciamento de fluxo pessoal.
 
 **`zonas_app`**
 
-Aplicação desenvolvida para gerenciamento e organização de informações.
+Aplicação desenvolvida para gerenciamento e organização de treinos entr professor e aluno.
 
-**Status:** `ACTIVE DEVELOPMENT`
+**Status:** `DELIVERED`
 
 </td>
 
